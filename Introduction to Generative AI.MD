@@ -4,17 +4,10 @@ Learn to define generative AI, explain how generative AI works, describe generat
 
 Generative AI is a type of AI technology that can produce various types of content, including text, imagery, audio, and synthetic data.
 
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
+ * Bullet list
+ 	* Nested bullet
+    	* Sub-nested bullet etc
+  	* Bullet list item 2
 
 What is AI? What is the difference between AI and ML? (ai_1)
 	

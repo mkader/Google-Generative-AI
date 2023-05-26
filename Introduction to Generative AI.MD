@@ -5,9 +5,9 @@ Learn to define generative AI, explain how generative AI works, describe generat
 Generative AI is a type of AI technology that can produce various types of content, including text, imagery, audio, and synthetic data.
 
 What is AI? What is the difference between AI and ML? (ai_1)
-	AI is a discipline, like physics for example.
-	AI is a branch of computer science that deals with the creation of intelligence agents, which are systems that can reason, learn and act autonomously.
-	AI has to do with the theory and methods to build machines that think and act like humans.
+	> AI is a discipline, like physics for example.
+	> AI is a branch of computer science that deals with the creation of intelligence agents, which are systems that can reason, learn and act autonomously.
+	> AI has to do with the theory and methods to build machines that think and act like humans.
 
 ML, which is a subfield of AI.
 	It is a program or system that trains a model from input data.

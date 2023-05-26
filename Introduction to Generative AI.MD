@@ -4,6 +4,18 @@ Learn to define generative AI, explain how generative AI works, describe generat
 
 Generative AI is a type of AI technology that can produce various types of content, including text, imagery, audio, and synthetic data.
 
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
+
 What is AI? What is the difference between AI and ML? (ai_1)
 	
 	AI is a discipline, like physics for example.
@@ -11,21 +23,25 @@ What is AI? What is the difference between AI and ML? (ai_1)
 	AI has to do with the theory and methods to build machines that think and act like humans.
 
 ML, which is a subfield of AI.
+	
 	It is a program or system that trains a model from input data.
 	That trained model can make useful predictions from new or never before seen data drawn from the same one used to train the model.
 	ML gives computers the ability to learn without explicit programming.
 
 2 most common ML models, 1) unsupervised and 2) supervised ML models.
+	
 	The key difference between is, with supervised models, we have labels.
 	Labeled data is data that comes with a tag like a name, a type or a number.
 	Unlabeled data is data that comes with no tag.
 
 A supervised model example
+	
 	You have historical data of the bill amount and how much different people tipped based on order type and whether it was picked up or delivered.
 	The model learns from past examples to predict future values, in this case tips.
 	So here the model uses the total bill amount to predict the future tip amount based on whether an order was picked up or delivered.
 
 An unsupervised model example (ai_2_supervised_model_example)
+	
 	Look at 10 year, an income and then group or cluster employees to see whether someone is on the fast track.
 	Unsupervised problems are all about discovery, about looking at the raw data and seeing if it naturally falls into groups.
 	

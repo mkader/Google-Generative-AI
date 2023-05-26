@@ -4,48 +4,46 @@ Learn to define generative AI, explain how generative AI works, describe generat
 
 Generative AI is a type of AI technology that can produce various types of content, including text, imagery, audio, and synthetic data.
 
-What is AI? what is the difference between AI and ML? (ai_1)
-	- AI is a discipline, like physics for example.
-	- AI is a branch of computer science that deals with the creation of intelligence agents, which are systems that can reason, learn and act autonomously.
-	- Essentially, AI has to do with the theory and methods to build machines that think and act like humans.
+What is AI? What is the difference between AI and ML? (ai_1)
+	AI is a discipline, like physics for example.
+	AI is a branch of computer science that deals with the creation of intelligence agents, which are systems that can reason, learn and act autonomously.
+	AI has to do with the theory and methods to build machines that think and act like humans.
 
-	- ML, which is a subfield of AI.
-	- It is a program or system that trains a model from input data.
-	- That trained model can make useful predictions from new or never before seen data drawn from the same one used to train the model.
-	- ML gives computers the ability to learn without explicit programming.
+ML, which is a subfield of AI.
+	It is a program or system that trains a model from input data.
+	That trained model can make useful predictions from new or never before seen data drawn from the same one used to train the model.
+	ML gives computers the ability to learn without explicit programming.
 
 2 most common ML models, 1) unsupervised and 2) supervised ML models.
-	- The key difference between is, with supervised models, we have labels.
-	- Labeled data is data that comes with a tag like a name, a type or a number.
-	- Unlabeled data is data that comes with no tag.
+	The key difference between is, with supervised models, we have labels.
+	Labeled data is data that comes with a tag like a name, a type or a number.
+	Unlabeled data is data that comes with no tag.
 
 A supervised model example
-	- You have historical data of the bill amount and how much different people tipped based on order type and whether it was picked up or delivered.
-	- The model learns from past examples to predict future values, in this case tips.
-	- So here the model uses the total bill amount to predict the future tip amount based on whether an order was picked up or delivered.
+	You have historical data of the bill amount and how much different people tipped based on order type and whether it was picked up or delivered.
+	The model learns from past examples to predict future values, in this case tips.
+	So here the model uses the total bill amount to predict the future tip amount based on whether an order was picked up or delivered.
 
 An unsupervised model example (ai_2_supervised_model_example)
-	- Look at 10 year, an income and then group or cluster employees to see whether someone is on the fast track.
-	- Unsupervised problems are all about discovery, about looking at the raw data and seeing if it naturally falls into groups.
+	Look at 10 year, an income and then group or cluster employees to see whether someone is on the fast track.
+	Unsupervised problems are all about discovery, about looking at the raw data and seeing if it naturally falls into groups.
 	
 Understanding these concepts are the foundation for your understanding of generative AI
-	- testing data values or x are input into the model.
-	- The model outputs a prediction and compares that prediction to the training data used to train the model.
-	- If the predicted test data values and actual training data values are far apart, that's called error.
-	- And the model tries to reduce this error until the predicted and actual values are closer together.
-	- This is a classic optimization problem.
+	Testing data values or x are input into the model.
+	The model outputs a prediction and compares that prediction to the training data used to train the model.
+	If the predicted test data values and actual training data values are far apart, that's called error.
+	And the model tries to reduce this error until the predicted and actual values are closer together. This is a classic optimization problem.
 
-Deep learning is a subset of ML methods.
-	DL uses artificial neural networks, allowing them to process more complex patterns than ML.
+Deep learning is a subset of ML methods. DL uses artificial NN, allowing them to process more complex patterns than ML.
 
-Artificial neural networks (NN) are inspired by the human brain. (ai_3_neural_network)
-	- Made up of many interconnected layers of nodes or neurons that can learn to perform tasks by processing data and making predictions.
-	- NN can use both labeled and unlabeled data.
+Artificial NN are inspired by the human brain. (ai_3_neural_network)
+	Made up of many interconnected layers of nodes or neurons that can learn to perform tasks by processing data and making predictions.
+	NN can use both labeled and unlabeled data.
 
 Semi-supervised learning
-	- a NN is trained on a small amount of labeled data and a large amount of unlabeled data.
-	- The labeled data helps the NN to learn the basic concepts of the task 
-	- the unlabeled data helps the NN to generalize to new examples.
+	a NN is trained on a small amount of labeled data and a large amount of unlabeled data.
+	The labeled data helps the NN to learn the basic concepts of the task 
+	The unlabeled data helps the NN to generalize to new examples.
 	
 Generative AI is a subset of deep learning, which means it uses artificial neural networks, can process both labeled and unlabeled data using supervised, unsupervised, and semi-supervised methods.
 

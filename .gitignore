@@ -10014,3 +10014,13 @@ training_checkpoints/ckpt_6.data-00000-of-00001
 training_checkpoints/ckpt_6.index
 training_checkpoints/ckpt_7.data-00000-of-00001
 training_checkpoints/ckpt_7.index
+training_checkpoints/ckpt_8.data-00000-of-00001
+training_checkpoints/ckpt_8.index
+training_checkpoints/ckpt_9.data-00000-of-00001
+training_checkpoints/ckpt_9.index
+training_checkpoints/ckpt_10.data-00000-of-00001
+training_checkpoints/ckpt_10.index
+one_step/fingerprint.pb
+one_step/saved_model.pb
+one_step/variables/variables.data-00000-of-00001
+one_step/variables/variables.index
